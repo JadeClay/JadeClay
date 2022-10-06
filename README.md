@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there, I'm Oscar Piña. 👋
+
+I'm a **Telematic Engineering student** who also likes to develope side (and open source) projects, trying always to learn something new and to grow professionally on the code industry.
+
+At the moment, I'm working on Bloggy. A blog system, pretty much simple at the moment, but I intend it to be the first choice when someone is doing a blog online.
+
+#### Help me pay tuition here: https://www.paypal.com/donate/?hosted_button_id=8V4RZ44YHRFWL
 
 <!--
 **JadeClay/JadeClay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
