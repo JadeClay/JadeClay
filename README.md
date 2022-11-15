@@ -2,7 +2,7 @@
 
 I'm a **Telematic Engineering student** who also likes to develope side (and open source) projects, trying always to learn something new and to grow professionally on the code industry.
 
-At the moment, I'm working on Bloggy. A blog system, pretty much simple at the moment, but I intend it to be the first choice when someone is doing a blog online.
+At the moment, I'm working on Bloggy, a blog system that helps people who wants a CMS easier than Wordpress, Joomla and the others.
 
 #### Help me pay tuition here: https://www.paypal.com/donate/?hosted_button_id=8V4RZ44YHRFWL
 
