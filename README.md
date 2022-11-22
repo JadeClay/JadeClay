@@ -1,6 +1,6 @@
 ### Hi there, I'm Oscar Piña. 👋
 
-I'm a **Telematic Engineering student** who also likes to develope side (and open source) projects, trying always to learn something new and to grow professionally on the code industry.
+I'm a **Telematic Engineering student** who also likes to develop side (and open source) projects on my free time, trying always to learn something new and to grow professionally on the code industry.
 
 At the moment, I'm working on Bloggy, a blog system that helps people who wants a CMS easier than Wordpress, Joomla and the others.
 
